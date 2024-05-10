@@ -50,14 +50,6 @@ Welcome to the Netflix Data Analysis and Content Recommendation System repositor
 10. **Netflix Content Description Analysis:**
     - Exploration of the descriptions of Netflix content, revealing prevalent themes and topics depicted in the platform's offerings.
 
-**Repository Structure:**
-
-- `data-storytelling-auc-focus-on-strokes.ipynb`: Jupyter Notebook containing the detailed analysis of Netflix data.
-- `README.md`: Readme file providing an overview of the project, instructions for users, and details of the analysis conducted.
-- `images/`: Directory containing images used in the Jupyter Notebook for visualizations.
-- `requirements.txt`: File listing the required Python libraries and their versions for replication of the project environment.
-- `LICENSE`: License file specifying the terms of use for the project.
-
 **How to Use:**
 
 1. Clone the repository to your local machine.
